@@ -1,21 +1,22 @@
 # 🏥 Medical History Integration System – 3-Week Development Roadmap
 
 **Goal:**  
-Develop a local demo of a **role-based medical history management system** with:  
-- Role-based login (Doctor, Lab, Pharmacy, Admin, Patient)  
-- Patient medical history (CRUD)  
+Developing a local demo of a **role-based medical history management system** with:  
+- Role-based login (Doctor and Lab(Hospitals and clinics), Pharmacy, Admin, Patient)  
+- Patient medical history  
 - Permission code system for patient data access  
-- Basic authentication (JWT/session)  
-- Local demo presentation at the end of 3 weeks  
+- Basic authentication
+- Demo presentation at the end of 3 weeks
 
 ---
 
 ## 👥 Team Structure
 
-- **Frontend Team (2 Devs)**: React + Tailwind (Web Dashboard)  
-- **Backend Team (2 Devs)**: Node.js or Django + PostgreSQL (API, Auth, CRUD)  
+- **Frontend Team**: React + Tailwind (Web Dashboard)       -- Mainly Yohannes habtamu and Saron Miruts
+- **Backend Team **: Node.js or Django + PostgreSQL (API, Auth, CRUD)
+       --  Mainly Mentesinot getu and Chala Hiko
 - **Integration**: Every 2–3 days  
-- **Testing**: Every 4 days  
+- **Testing**: Every 5 days  
 
 ---
 
@@ -94,7 +95,7 @@ Develop a local demo of a **role-based medical history management system** with:
 - [ ] Final **Bug Fixes & Polish**
 
 **Milestone:**  
-🎉 End-to-end **Local Demo Presentation** (Login → Patient Search → History → Permission)
+🎉 End-to-end **Demo Presentation** (Login → Patient Search → History → Permission)
 
 ---
 
@@ -102,21 +103,5 @@ Develop a local demo of a **role-based medical history management system** with:
 - **Day 7 (Sun)** – Login + Patient CRUD works  
 - **Day 13 (Sat)** – Full patient workflow functional  
 - **Day 18 (Thu)** – End-to-end workflow ready for demo  
-
----
-
-## 🏁 After Week 3 (Optional Next Phase)
-- [ ] Add **ElasticSearch** for fast queries  
-- [ ] Start **React Native mobile app**  
-- [ ] Deploy to **Cloud / Government Servers**  
-- [ ] Add **Advanced Security & Audit Logging**
-
----
-
-## 📊 Progress Tracking
-- Each team updates this README daily  
-- ✅ = Task complete  
-- ⚠️ = In progress / blocked  
-- ❌ = Not started
 
 ---
