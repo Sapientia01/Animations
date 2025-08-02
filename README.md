@@ -12,7 +12,8 @@ Developing a local demo of a **role-based medical history management system** wi
 
 ## 👥 Team Structure
 
-- **Frontend Team**: React + Tailwind (Web Dashboard)      > Mainly Yohannes habtamu and Saron Miruts
+- **Frontend Team**: React + Tailwind (Web Dashboard)
+    > Mainly Yohannes habtamu and Saron Miruts
 - **Backend Team **: Node.js or Django + PostgreSQL (API, Auth, CRUD)
     > Mainly Mentesinot getu and Chala Hiko
 - **Integration**: Every 2–3 days  
