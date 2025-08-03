@@ -1,4 +1,4 @@
-# 🏥 Medical History Integration System – 3-Week Development Roadmap
+# Medical History Integration System – 3-Week Development Roadmap
 
 **Goal:**  
 Developing a local demo of a **role-based medical history management system** with:  
@@ -10,10 +10,11 @@ Developing a local demo of a **role-based medical history management system** wi
 
 ---
 
-## 👥 Team Structure
+## Team Structure
 
 - **Frontend Team**: React + Tailwind (Web Dashboard)
     > Mainly Yohannes habtamu and Saron Miruts
+
 - **Backend Team **: Node.js or Django + PostgreSQL (API, Auth, CRUD)
     > Mainly Mentesinot getu and Chala Hiko
 - **Integration**: Every 2–3 days  
@@ -21,7 +22,7 @@ Developing a local demo of a **role-based medical history management system** wi
 
 ---
 
-## ✅ Week 1 – Foundations & Authentication
+## Week 1 – Foundations & Authentication
 
 > **Goal:** Project setup, database design, authentication, role-based access
 
@@ -44,11 +45,11 @@ Developing a local demo of a **role-based medical history management system** wi
 - [ ] Integration & Testing #1 (End of Week)
 
 **Milestone:**  
-✅ Login + Role-based access + Basic patient creation flow works locally
+  Login + Role-based access + Basic patient creation flow works locally
 
 ---
 
-## ✅ Week 2 – Core Features & Permissions
+## Week 2 – Core Features & Permissions
 
 > **Goal:** Complete patient medical history management and permission code system
 
@@ -71,11 +72,11 @@ Developing a local demo of a **role-based medical history management system** wi
 - [ ] Code refactor & cleanup
 
 **Milestone:**  
-🎯 Full patient workflow: **Login → Search → Add/View History → Permission Check**
+ Full patient workflow: **Login → Search → Add/View History → Permission Check**
 
 ---
 
-## ✅ Week 3 – Finalization & Local Demo
+## Week 3 – Finalization & Local Demo
 
 > **Goal:** Add search & filtering, finalize dashboards, and prepare local demo
 
@@ -96,11 +97,11 @@ Developing a local demo of a **role-based medical history management system** wi
 - [ ] Final **Bug Fixes & Polish**
 
 **Milestone:**  
-🎉 End-to-end **Demo Presentation** (Login → Patient Search → History → Permission)
+End-to-end **Demo Presentation** (Login → Patient Search → History → Permission)
 
 ---
 
-## 📌 Integration & Testing Checkpoints
+## Integration & Testing Checkpoints
 - **Day 7 (Sun)** – Login + Patient CRUD works  
 - **Day 13 (Sat)** – Full patient workflow functional  
 - **Day 18 (Thu)** – End-to-end workflow ready for demo  
